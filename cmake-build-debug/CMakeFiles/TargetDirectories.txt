@@ -1,0 +1,3 @@
+/Users/xdbwk/Desktop/thu32/计算机系统结构/experiment2/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xdbwk/Desktop/thu32/计算机系统结构/experiment2/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xdbwk/Desktop/thu32/计算机系统结构/experiment2/code/cmake-build-debug/CMakeFiles/code.dir

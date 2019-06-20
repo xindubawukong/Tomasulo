@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xdbwk/Desktop/thu32/计算机系统结构/experiment2/code/main.cpp
+algorithm
+-
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+vector
+-
+map
+-
+queue
+-
+
